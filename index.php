@@ -1,9 +1,9 @@
 <?php
 
-// // Your code goes here
-// $myName = "Keepon";
-// $finalOutput = "My name is".' '.$myName;
-// // echo $finalOutput;
+// Your code goes here
+$myName = "Keepon";
+$finalOutput = "My name is".' '.$myName;
+// echo $finalOutput;
 
 // // arrays
 // $students = array("Sheila", "Caleb", "Emmanuel", "Stephen",);
